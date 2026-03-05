@@ -1,0 +1,31 @@
+{
+  "short_name": "Avurudu Ulela",
+  "name": "Avurudu Ulela - Digital Village",
+  "description": "Experience the rich traditions of Sinhala and Tamil New Year",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#d4af37",
+  "background_color": "#fdfdfd",
+  "orientation": "portrait-primary",
+  "categories": ["lifestyle", "entertainment", "shopping"]
+}
